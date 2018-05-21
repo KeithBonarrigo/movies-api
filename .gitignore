@@ -2,4 +2,5 @@ env/Include
 env/Scripts
 env/Lib
 env/tcl
+env/movies/movies/__pycache__/*
 .idea
