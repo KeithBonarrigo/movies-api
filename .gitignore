@@ -1,0 +1,5 @@
+env/Include
+env/Scripts
+env/Lib
+env/tcl
+.idea
